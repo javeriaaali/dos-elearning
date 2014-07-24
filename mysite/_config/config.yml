@@ -9,3 +9,5 @@ After:
 # Caution: Indentation through two spaces, not tabs
 SSViewer:
   theme: 'simple'
+  # display template filenames as comments in the html output
+  source_file_comments: true

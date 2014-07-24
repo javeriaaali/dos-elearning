@@ -9,3 +9,7 @@ silverstripe-cache
 .DS_Store
 vendor/
 division-elearning-project/
+division-bar/
+foundationforms/
+mathspamprotection/
+spamprotection/
