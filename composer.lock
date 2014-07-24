@@ -1,7 +1,8 @@
 {
     "_readme": [
         "This file locks the dependencies of your project to a known state",
-        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
+        "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
     ],
     "hash": "39b58c399bfcd7966de66d9b4de5e109",
     "packages": [
@@ -133,12 +134,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-elearning-project.git",
-                "reference": "6d35270db02d15cd0785574770bf344be725a9ba"
+                "reference": "39ed2f539eea9d9287f81944bd31b70fef4f2ef6"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-elearning-project/zipball/6d35270db02d15cd0785574770bf344be725a9ba",
-                "reference": "6d35270db02d15cd0785574770bf344be725a9ba",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-elearning-project/zipball/39ed2f539eea9d9287f81944bd31b70fef4f2ef6",
+                "reference": "39ed2f539eea9d9287f81944bd31b70fef4f2ef6",
                 "shasum": ""
             },
             "require": {
@@ -152,13 +153,13 @@
                 "silverstripe/spamprotection": "dev-master",
                 "silverstripe/userforms": "*"
             },
-            "type": "library",
-            "description": "CAB Website",
+            "type": "silverstripe-module",
+            "description": "Themable module for an elearning project",
             "support": {
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-elearning-project/tree/master",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-elearning-project/issues"
             },
-            "time": "2014-07-24 16:19:22"
+            "time": "2014-07-24 16:38:54"
         },
         {
             "name": "rywa/silverstripe-foundation-forms",
@@ -457,6 +458,7 @@
     "stability-flags": [
 
     ],
+    "prefer-stable": false,
     "platform": {
         "php": ">=5.3.2"
     },
