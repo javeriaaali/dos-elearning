@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "58b6d61bf07f4906ec9f8b40664d1310",
+    "hash": "39b58c399bfcd7966de66d9b4de5e109",
     "packages": [
         {
             "name": "composer/installers",
@@ -133,12 +133,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-elearning-project.git",
-                "reference": "dbdb4a9789f8651e3fffdea54d2a5ff0494a98f1"
+                "reference": "6d35270db02d15cd0785574770bf344be725a9ba"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-elearning-project/zipball/dbdb4a9789f8651e3fffdea54d2a5ff0494a98f1",
-                "reference": "dbdb4a9789f8651e3fffdea54d2a5ff0494a98f1",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-elearning-project/zipball/6d35270db02d15cd0785574770bf344be725a9ba",
+                "reference": "6d35270db02d15cd0785574770bf344be725a9ba",
                 "shasum": ""
             },
             "require": {
@@ -158,7 +158,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-elearning-project/tree/master",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-elearning-project/issues"
             },
-            "time": "2014-07-24 15:38:26"
+            "time": "2014-07-24 16:19:22"
         },
         {
             "name": "rywa/silverstripe-foundation-forms",
@@ -199,42 +199,6 @@
                 "zurbfoundation"
             ],
             "time": "2014-02-22 22:15:47"
-        },
-        {
-            "name": "silverstripe-themes/simple",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/silverstripe-themes/silverstripe-simple.git",
-                "reference": "84c1215f914b8c20f924202a2ace2812f28d6c0a"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/silverstripe-themes/silverstripe-simple/zipball/84c1215f914b8c20f924202a2ace2812f28d6c0a",
-                "reference": "84c1215f914b8c20f924202a2ace2812f28d6c0a",
-                "shasum": ""
-            },
-            "require": {
-                "composer/installers": "*",
-                "silverstripe/framework": ">=3.0"
-            },
-            "type": "silverstripe-theme",
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-3-Clause"
-            ],
-            "authors": [
-                {
-                    "name": "Sara Tušar (Innovaif)",
-                    "homepage": "http://www.saratusar.com"
-                }
-            ],
-            "description": "The SilverStripe simple theme (default SilverStripe 3 theme)",
-            "keywords": [
-                "silverstripe",
-                "theme"
-            ],
-            "time": "2013-10-15 22:16:12"
         },
         {
             "name": "silverstripe/cms",
